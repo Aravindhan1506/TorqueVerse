@@ -1,8 +1,4 @@
-# 🏍️ TorqueVerse
 
-TorqueVerse is a modern **bike comparison website** that helps users explore and compare motorcycles using a clean, fast, and responsive interface. This project focuses on performance, UI clarity, and real-world web development practices.
-
----
 
 ## 📌 Project Description
 
